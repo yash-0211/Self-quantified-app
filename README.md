@@ -9,11 +9,5 @@ matplotlib is used to plot the graphs of each tracker showing the  logs of the t
 flask_login is helps tracking the login id of the user.
 flask_sqlalchemy is used to connect to the database.
 
-Please install the following python packages before running the app:
-flask 
-flask_sqlalchemy 
-flask_login
-matplotlib 
-matplotlib.ticker 
-matplotlib.dates 
+Please install the python packages from requirements.txt file before running the app:
 Run the app.py file to run the Quantified self application.
